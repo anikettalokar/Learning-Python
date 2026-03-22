@@ -1,0 +1,11 @@
+friut="mango"
+print(friut[0:5])
+print(friut[0:4])
+print(friut[0:3])
+print(friut[0:2])
+print(friut[0:1])
+print(friut[:5])
+print(friut[:4])
+print(friut[:3])
+print(friut[:2])
+print(friut[:1])
